@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @CodeByPabitra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Codding 
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Codding
+- 📫 How to reach me @https.pabitra.in
+- 😄 Pronouns: Code, Play, Read, Sleep
+- ⚡ Fun fact: Empower Coders Worldwide!
 
-<!---
-CodeByPabitra/CodeByPabitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- @CodeByPabitra--->
